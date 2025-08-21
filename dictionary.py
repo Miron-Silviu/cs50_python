@@ -1,3 +1,6 @@
+
+
+
 words = set()
 
 
@@ -15,3 +18,6 @@ def load(dictionary):
     
     def unload():
         return True
+
+
+
